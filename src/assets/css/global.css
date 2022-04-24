@@ -19,3 +19,7 @@ html, body, #app{
 .el-pagination{
   margin-top: 15px;
 }
+.el-cascader-menu {
+  width: 100%;
+  height: 250px;
+}
